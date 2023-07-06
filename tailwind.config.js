@@ -12,7 +12,7 @@ module.exports = {
   theme: {
     extend: {},
   },
-  output: 'export',
+  
   plugins: [
     require('@tailwindcss/typography')
   ],
