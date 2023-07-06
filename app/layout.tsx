@@ -24,7 +24,7 @@ export default function RootLayout({
   const header=(
     <header>
       <div className="text-center bg-slate-900 p-8 my-6 rounded-md"> 
-      <Image src="/logo.png" width={48} height={40} className="mx-auto" />
+      <Image src="/logo.png" alt="Logo" width={48} height={40} className="mx-auto" />
       <Link href="/"><h1 className="text-3x1 text-white text-4xl font-bold mt-4 "> Abhinav's blogsite</h1></Link>
       
                
