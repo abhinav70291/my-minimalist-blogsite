@@ -5,7 +5,7 @@ import "./globals.css"
 import { Inter } from "next/font/google";
 import { ThemeProvider } from "./theme-provider";
 import { ThemeSwitcher } from "./ThemeSwitcher";
-import { switchThemeDuration } from "./constants";
+
 
 
 const inter = Inter({ subsets: ["latin"] });
